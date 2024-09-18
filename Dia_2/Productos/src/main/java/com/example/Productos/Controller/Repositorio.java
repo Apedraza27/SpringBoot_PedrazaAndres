@@ -3,6 +3,8 @@ package com.example.Productos;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.example.Productos.Model.Producto;
 import org.springframework.stereotype.Repository;
 
 @Repository

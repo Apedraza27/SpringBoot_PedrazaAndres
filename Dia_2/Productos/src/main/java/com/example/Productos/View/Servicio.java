@@ -2,6 +2,8 @@
 package com.example.Productos;
 
 import java.util.List;
+
+import com.example.Productos.Model.Producto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
