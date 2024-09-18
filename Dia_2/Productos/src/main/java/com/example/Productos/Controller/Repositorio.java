@@ -1,5 +1,5 @@
 
-package com.example.Productos;
+package com.example.Productos.Controller;
 
 import java.util.ArrayList;
 import java.util.List;

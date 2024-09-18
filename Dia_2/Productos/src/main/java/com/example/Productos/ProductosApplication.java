@@ -1,6 +1,9 @@
 package com.example.Productos;
 
 import java.util.Scanner;
+
+import com.example.Productos.Model.Producto;
+import com.example.Productos.View.Servicio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,5 +1,5 @@
 
-package com.example.Productos;
+package com.example.Productos.Model;
 
 
 public class Producto {

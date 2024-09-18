@@ -1,8 +1,9 @@
 
-package com.example.Productos;
+package com.example.Productos.View;
 
 import java.util.List;
 
+import com.example.Productos.Controller.Repositorio;
 import com.example.Productos.Model.Producto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
